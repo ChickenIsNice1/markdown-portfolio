@@ -1,1 +1,1 @@
-![A picture of mushy peas](https://octodex.github.com/images/garfield.png)
+![A picture of yaktocat](https://octodex.github.com/images/yaktocat.png)
